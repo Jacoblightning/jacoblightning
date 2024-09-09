@@ -20,6 +20,9 @@ My name is Jacob and I am a young and aspiring developer.
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:contact@jacoblightning3.anonaddy.me)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/954517461921828896)(I probably won't answer you on discord.)
 
+# My profile stats:
+![Jacoblightning's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacoblightning)
+
 <!--
 **Jacoblightning/jacoblightning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
