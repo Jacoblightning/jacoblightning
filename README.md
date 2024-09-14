@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=jacoblightning&color=orange)
 ## Hi there 👋
 My name is Jacob and I am a young and aspiring developer.
 
