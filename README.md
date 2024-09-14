@@ -24,3 +24,6 @@ My name is Jacob and I am a young and aspiring developer.
 ![Jacoblightning's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacoblightning)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+
+# Read more?
+[![Read more here](https://github-readme-stats.vercel.app/api/pin/?username=jacoblightning&repo=jacoblightning)](https://github.com/Jacoblightning/jacoblightning/blob/main/More.md)
