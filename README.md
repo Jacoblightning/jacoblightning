@@ -1,3 +1,7 @@
+> [!IMPORTANT]  
+> I've started migrating my repositories to forgejo and all of my newest code will be hosted here:
+> https://git.jacoblightning3.xyz
+
 ![](https://komarev.com/ghpvc/?username=jacoblightning&color=orange)
 ## Hi there 👋
 My name is Jacob and I am a young and aspiring developer.
