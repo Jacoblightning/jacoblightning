@@ -20,11 +20,12 @@ My name is Jacob and I am a young and aspiring developer.
 ![My Skills](https://skillicons.dev/icons?i=arduino,cmake,flask,gamemakerstudio,unity,git,github,githubactions,gitlab,godot,nodejs,opencv,)
 
 ## Contact me (Images below are links):
-[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/19822441/jacoblightning3)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jacob-freeman-130a57313)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:contact@jacoblightning3.anonaddy.me)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:jacob@jacoblightning3.xyz)
+[![Mastodon Logo](https://skillicons.dev/icons?i=mastodon)](https://mastodon.jacoblightning3.xyz/@jacob)
 
 # My profile stats:
 ![Jacoblightning's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacoblightning)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacoblightning3)
+
+<a rel="me" href="https://mastodon.jacoblightning3.xyz/@jacob">Mastodon</a>
